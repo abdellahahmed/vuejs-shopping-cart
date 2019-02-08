@@ -1,3 +1,1 @@
-# vuejs-shopping-cart
-
-Shopping Cart using Vue.js
+# Shopping Cart using Vue.js
