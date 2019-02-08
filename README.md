@@ -1,1 +1,1 @@
-# Shopping Cart using Vue.js
+# Shopping Cart with Vue.js
